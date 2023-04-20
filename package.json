@@ -1,26 +1,17 @@
 {
-  "name": "untitled",
+  "name": "project",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ducanh1994/MD4_case1.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ducanh1994/MD4_case1/issues"
-  },
-  "homepage": "https://github.com/Ducanh1994/MD4_case1#readme",
-  "description": "",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^5.3.4",
-    "nodemon": "^2.0.22"
+    "mongoose": "^5.13.17"
   }
 }
